@@ -1,0 +1,9 @@
+{
+  "cSpell.words": ["tailwindcss"],
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "Prettier-Code formatter",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+}
